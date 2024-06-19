@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Salman509/Parentingcare.git"
+    "url": "git+https://github.com/Salman509/parentingcare-main.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Salman509/Parentingcare/issues"
+    "url": "https://github.com/Salman509/parentingcare-main/issues"
   },
-  "homepage": "https://github.com/Salman509/Parentingcare#readme",
+  "homepage": "https://github.com/Salman509/parentingcare-main#readme",
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
